@@ -3,9 +3,6 @@ I am a Master's student in Physics, here you can find some projects related to m
 ![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovannicelotto)
 
 
-### Stats:
-
-![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=giovannicelotto&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicelotto)](https://github.com/giovannicelotto/github-readme-stats)
